@@ -1,0 +1,17 @@
+C:\Users\coffe\source\repos\MVVM\MVVM\bin\Debug\MVVM.exe.config
+C:\Users\coffe\source\repos\MVVM\MVVM\bin\Debug\MVVM.exe
+C:\Users\coffe\source\repos\MVVM\MVVM\bin\Debug\MVVM.pdb
+C:\Users\coffe\source\repos\MVVM\MVVM\obj\Debug\MVVM.csproj.AssemblyReference.cache
+C:\Users\coffe\source\repos\MVVM\MVVM\obj\Debug\MVVM.csproj.SuggestedBindingRedirects.cache
+C:\Users\coffe\source\repos\MVVM\MVVM\obj\Debug\MainWindow.g.cs
+C:\Users\coffe\source\repos\MVVM\MVVM\obj\Debug\App.g.cs
+C:\Users\coffe\source\repos\MVVM\MVVM\obj\Debug\MVVM_MarkupCompile.cache
+C:\Users\coffe\source\repos\MVVM\MVVM\obj\Debug\MVVM_MarkupCompile.lref
+C:\Users\coffe\source\repos\MVVM\MVVM\obj\Debug\MainWindow.baml
+C:\Users\coffe\source\repos\MVVM\MVVM\obj\Debug\MVVM.g.resources
+C:\Users\coffe\source\repos\MVVM\MVVM\obj\Debug\MVVM.Properties.Resources.resources
+C:\Users\coffe\source\repos\MVVM\MVVM\obj\Debug\MVVM.csproj.GenerateResource.cache
+C:\Users\coffe\source\repos\MVVM\MVVM\obj\Debug\MVVM.csproj.CoreCompileInputs.cache
+C:\Users\coffe\source\repos\MVVM\MVVM\obj\Debug\MVVM.exe
+C:\Users\coffe\source\repos\MVVM\MVVM\obj\Debug\MVVM.pdb
+C:\Users\coffe\source\repos\MVVM\MVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
